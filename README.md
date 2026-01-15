@@ -177,14 +177,16 @@ INSERT INTO users (username, password, name, role) VALUES
 ### Login Page
 Halaman login dengan desain modern glassmorphism dan animasi floating icon.
 
+![image_alt](https://github.com/raydiansyah/library_native/blob/a361d56f039c411e6600a763d2c36fc80e51ca48/Screenshot%202026-01-15%20at%2014.21.59.png)
+
 ### Dashboard
 Menampilkan statistik:
 - Total Buku
 - Total Anggota
 - Buku Sedang Dipinjam
 - Total Transaksi
+  ![image_link](https://github.com/raydiansyah/library_native/blob/a361d56f039c411e6600a763d2c36fc80e51ca48/Screenshot%202026-01-15%20at%2014.24.27.png)
 
-Serta tabel transaksi terbaru dengan status peminjaman.
 
 ---
 
